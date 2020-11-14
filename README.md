@@ -1,6 +1,6 @@
 # Quibler
 
-**TODO: Add description**
+A simple caching library built on top of mnesia.
 
 ## Installation
 
