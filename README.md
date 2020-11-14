@@ -1,6 +1,13 @@
 # Quibler
 
-A simple caching library built on top of mnesia.
+A simple caching library built on top of ets.
+
+## Features
+
+- A genserver process with ets crud caching operations
+- supervised
+- cache garbage collection
+- distributed over nodes ?
 
 ## Installation
 
